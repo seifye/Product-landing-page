@@ -20,5 +20,5 @@ I followed the following steps:
 
 ### Result (Homepage)
 
-<img src='screenshots/homepage.png>
+<img src='screenshots/homepage.png'>
 
