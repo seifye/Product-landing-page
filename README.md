@@ -2,7 +2,7 @@
 
 ## Project 2 - Landing Page (Front End Developer Udacity Nanodegree)
 
-### created with HTML, CSS, Javascript (Vanilla)
+### Created with HTML, CSS, and Javascript (Vanilla)
 
 ### Project Description
 The product landing page created as part of my FEND Nanodegree course.
